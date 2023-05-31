@@ -1,0 +1,35 @@
+
+# This is a permanent license generated on Thu Dec 11 01:38:31 UTC 2016
+INCREMENT ten_gig_eth_pcs_pma_basekr xilinxd 2117.12 permanent \
+	uncounted 2A0054C0536F \
+	VENDOR_STRING=License_Type:Bought;kintups,ten_gig_eth_pcs_pma_basekr,ip,permanent,_210755388_0_0_109 \
+	HOSTID=ANY ISSUER="Xilinx Inc" NOTICE="The license for this \
+	core was generated for kintups on 12/11/2016It is the \
+	responsibility of the Licensee of this core to adhere to all \
+	terms and conditions of the applicable license agreement when \
+	using this core." START=11-Dec-2016 TS_OK
+INCREMENT tri_mode_eth_mac xilinxd 2117.12 permanent uncounted \
+	FC896494A926 \
+	VENDOR_STRING=License_Type:Bought;ten_gig_eth_mac,ip,permanent,_210755388_0_0_109 \
+	HOSTID=ANY ISSUER="Xilinx Inc" NOTICE="The license for this \
+	core was generated for kintups on 12/11/2016It is the \
+	responsibility of the Licensee of this core to adhere to all \
+	terms and conditions of the applicable license agreement when \
+	using this core." START=11-Dec-2016 TS_OK
+INCREMENT ten_gig_eth_mac xilinxd 2117.12 permanent uncounted \
+	9418554E0462 \
+	VENDOR_STRING=License_Type:Bought;kintups,ten_gig_eth_mac,ip,permanent,_210755388_0_0_109 \
+	HOSTID=ANY ISSUER="Xilinx Inc" NOTICE="The license for this \
+	core was generated for kintups on 12/11/2016It is the \
+	responsibility of the Licensee of this core to adhere to all \
+	terms and conditions of the applicable license agreement when \
+	using this core." START=11-Dec-2016 TS_OK
+INCREMENT eth_avb_endpoint xilinxd 2117.12 permanent uncounted \
+	2BB46E8D49EB \
+	VENDOR_STRING=License_Type:Bought;kintups,eth_avb_endpoint,ip,permanent,_210755388_0_0_109 \
+	HOSTID=ANY ISSUER="Xilinx Inc" NOTICE="The license for this \
+	core was generated for kintups on 12/11/2016It is the \
+	responsibility of the Licensee of this core to adhere to all \
+	terms and conditions of the applicable license agreement when \
+	using this core." START=11-Dec-2016 TS_OK
+
