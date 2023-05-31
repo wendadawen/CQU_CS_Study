@@ -1,0 +1,15 @@
+1、 配置字体
+{
+	"font_face": "Fira Code bold",
+	"font_size": 13,
+	"save_on_focus_lost": true,
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"theme": "Default.sublime-theme",
+	"dark_color_scheme": "Celeste.sublime-color-scheme",
+	"light_color_scheme": "Celeste.sublime-color-scheme",
+}
+字体需要自己下载安装
+2、配置FastOlympicCoding插件，下载安装即可
+3、配置g++，下载配置环境变量即可
+4、修改FastOlympicCoding g++版本为gnu17 
+5、修改快捷键 找到项目的sublime-keymap 修改run的快捷键
