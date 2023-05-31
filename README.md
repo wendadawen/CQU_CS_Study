@@ -1,6 +1,8 @@
 # CQU_CS_Study
-中文：
+
 重庆大学计算机学院课程学习资料
+
+这是2021级whb的学习资料仓库，由whb本人维护上传，有问题请提出issue
 
 ENGLISH：
 Course materials of School of Computer Science, Chongqing University
