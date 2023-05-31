@@ -1,0 +1,61 @@
+实体：
+
+巡航(cruise)：巡航编号（cruise_id）,巡航名字（cruise_name)，船编号（ship_id），天数（duration），起始地（departure），停靠港口数量（number_of_stops）。
+
+船（ship）：船编号（ship_id），船名（ship_name），载客量（capacity），生产日期（produce_date），注册国家（registry）。
+
+客舱（cabin）:客舱编号(cabin_id)，等级（gade），容纳人数（capacity），价格（price），预定情况（reser_or_not）。并且该实体集依附于船，是弱实体集。
+
+港口（port）：港口编号（port_id），港口名字（port_name）。
+
+人（person）: 人编号(person_id)，姓名（person_name），年龄（person_age），性别（person_gender）。
+
+旅行社（travel_agent）:旅行社编号（agent_id），旅行社名字（agent_name），旅行社地址（agent_address）。
+
+小册子（brochure）：小册子编号(brochure_id)，册子标题（brochure_name），年度（year）
+
+联系：
+1、巡航由旅行社”代理“（delegate），并附带属性 ”佣金“（commission）。
+2、巡航和船之间有 ”安排“（arrange） 的联系。
+3、巡航和停靠港之间有 ”途径“（pass）的联系，并附带属性  “停靠时间”（time_slot），该属性由巡航的起始地和天数共同决定。
+	说明：每一个巡航有多个停靠港，因此停靠港是多值属性，将其分离出来形成单独的实体集方便处理。
+4、巡航与小册子之间有 “介绍”（introduce）的联系。
+5、船与客舱有 “包含”（include）关系。
+	说明：客舱依附于船，因此客舱是弱实体集。
+6、人与旅行社有 “预定”（reserve）关系，并附带属性 “巡航编号”（cruise_id）,“客舱编号”（cabin_id），“合租与否”(shared_or_not)，“最终成交价”（transac_price），“押金”(deposit)。
+	说明：人预定了巡航之后，订单的信息就会有一些基本信息，再根据是否合租影响最终成交价，也就是		是否折扣。
+
+
+关系：
+1、巡航  与  旅行社：多对多
+2、巡航 与 船： 多对一
+3、巡航 与 停靠港：多对多
+4、巡航 与 小册子：多对一
+5、船 与 客舱：一对多
+6、人 与 旅行社：多对一
+
+参与：
+1、船与客舱都是全参与
+2、巡航全参与 于 停靠港
+3、其他均是部分参与
+
+
+材料细节说明：
+1、巡航持续天数取值只能是 3 ， 7 ， 11 ， 14 天。
+2、三天的巡航停靠站数量为 1，停靠时间是第二天。
+3、七天的巡航停靠站数量为 3。
+4、有些游客喜欢乘坐较新的船只，因此在船的属性里面加入了生产日期，以供游客选择。
+5、根据巡航起始地和巡航天数的不同，停靠港口也不同，可以反应在ER图的 cruise 和 port的关系上面。
+6、客舱的价格属性是预定该客舱原本的价格，而根据材料，合租会更便宜，因此在“预定”联系附带的属性“最终成交价”是实际价格，可以反映折扣信息。
+
+
+PK:主键
+1.brochure（brochure_id(PK), brochure_name, year）.
+2.port(port_id(PK), port_name).
+3.travel_agent(agent_id(PK), agent_name, agent_address,).
+4.person(person_id(PK), person_name, person_age, telephone, person_gender,agent_id,cruise_id, cabin_id, shared_or_not, transac_price, deposit).
+5.delegate(cruise_id(PK), agent_id(PK), commission).
+6.cruise(cruise_id(PK), cruise_name, duration, departure, number_of_stops, ship_id, brochure_id),
+7.cabin(ship_id(PK), cabin_id(PK), grade, capacity, price, reser_or_not).
+8.ship(ship_id(PK), ship_name, capacity, produce_date, registry).
+9.pass(cruise_id, port_id, time_slot).
