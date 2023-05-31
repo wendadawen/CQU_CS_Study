@@ -1,0 +1,269 @@
+Major findings
+Logical sequence
+Reasons（introduction） -> Evidence（resuolt） -> idea（discussion）
+
+Relevance of the data to the topic
+Significance of the data
+Readers of the data（who）
+Contribution of the discovery
+
+Discussion：
+	Account for， explain and evaluate the results
+		-discussion the reasons， implications ，universal meanings， significance and values of this suty
+		-make conclusions
+	Interpret, pull together and synthesize the findings of your study.
+	Do the reasults meet your research purpose？ if not，why？
+	Do the results answer your research questions？if not，why？
+	Do the results agree with the results of other experts.
+	Interpret，and explain the reasons based on the results， and draw the conclusion.
+	Point out the limitations and the impact that these limatations have on the results and suggest the research direction.
+	Point out recommendations, significance, meanings and  values of your findings.
+	
+	
+Languages:
+	The most important discovery in this research is
+	The findings of this research is in argreement with
+	The current findings expand the prior work
+
+
+
+
+你是一个学者，你需要回答以下问题并形成较长篇幅的论文或者研究报告，并且使用中文回答。按照以下的结构回答：
+1.Results and discussions for research question one.
+2.Results and discussions for research question two.
+3.Summary.
+请紧紧围绕研究问题回答，两个研究问题回答的内容尽量不同，一定要围绕研究问题回答。
+
+其中每个问题具体包括以下内容：
+1.解释、汇总和综合你的研究结果。
+2.结果符合你的研究目的吗?如果不是,为什么?
+3.结果是否回答了你的研究问题?如果不是,为什么?
+4.结果与其他专家的结果一致吗?
+5.根据结果进行解释，解释原因，并得出结论。
+6.指出研究的局限性和这些局限性对研究结果的影响，并提出今后的研究方向。
+7.指出你的发现的建议、意义、意义和价值。
+
+两个研究的问题是：
+1.What are the usage patterns of short videos among college students?
+2.What are the preferences of college students regarding short videos, such as the type of content, platform, and frequency of use?
+研究目的是大学生短视频使用现状的调查研究。
+调查结果是：
+A Research on the Use of Short Videos in College Students
+Chapter 3 Data Analysis
+3.1 Reliability analysis
+The reliability of the scale was analyzed and the Cronbach 's α coefficient was used to evaluate the scale.The low reliability : α< 0.35, medium reliability : 0.35 <α< 0.70, high reliability : 0.70 <α. Generally, the α coefficient of the questionnaire is above 0.8, which is of use value. Cronbach 's α values were above 0.85, indicating that the reliability of the questionnaire was good.
+According to Table 3.1.1 and Table 3.1.2, the Cronbach 's α coefficient of the questionnaire is 0.902, indicating that the whole questionnaire has high reliability. After deleting a single analysis item, the Cronbach 's α coefficient was above 0.862, indicating that each analysis item had a certain contribution to the overall reliability of the questionnaire, so it was recommended to retain all analysis items. At the same time, the correlation between each analysis item and the overall after deletion is above 0.698, indicating that each analysis item has a certain correlation with the overall, and also supports the retention of all analysis items. In summary, the reliability of the questionnaire is high, and all analysis items can be retained.
+Cronbach's α coefficient	Items	samples
+0.902	5	29
+Table 3.1.1
+index	Item name	Correlation between deleted items and the total after deleting items	Cronbach 's α coefficient after item deletion	conclusion
+1	一天中观看短视频时间	0.805	0.869	good
+2	经常在社交媒体上分享短视频	0.736	0.884	good
+3	短视频对自己的影响	0.834	0.862	good
+4	短视频可以帮助了解文化和趋势	0.698	0.892	good
+5	短视频可以缓解压力和疲劳	0.709	0.891	good
+Table 3.1.2
+3.2 Preliminary analysis of survey results
+The survey received a total of 29 questionnaires, 29 valid questionnaires, of which girls accounted for 51.72 %, boys accounted for 48.28 %. In terms of age, respondents were mainly 21-23 years old, accounting for 41.38 %, and 18-20 years old, accounting for 37.93 %. From the selected five colleges, each college accounts for an equal proportion. 
+
+
+
+
+
+
+
+
+Figure 3.2.1
+
+In-depth interviews a total of three college students were interviewed to talk about their views on the short video. 
+Detailed interview data are located in Appendix 1.
+3.2.1 Analysis of the usage of short video platform
+In general, short video platforms are very popular among college students, who often watch and share videos on the platform. The video needs of college students are more diversified, not only limited to entertainment and recreation, but also to acquire knowledge and skills, share life and exchange experience. In the short video platform, Douyin is the most commonly used platform for college students, probably because its content is more diverse and interesting, and the user interface is more friendly and easy to use. On social media, most college students are willing to share short videos, which also reflects the advantages of short videos in communication and communication.
+College students use short video platform time
+It can be seen from the data in the figure 2 that college students use the short video platform mainly between 2-4 hours a day, accounting for more than half of the proportion. This shows that short video platforms are very popular among college students and have become an important part of their daily entertainment life. In addition, some people use the short video platform for less than 1 hour a day, which may be because they are busy and do not have much free time. The number of people using short video platforms for more than 4 hours a day is relatively small, probably because long-term use of short video will affect learning and life, and college students are aware of this. It can be seen that the frequency and duration of most college students watching short videos are relatively high.
+
+
+Note :
+1 : Less than 1 hour a day
+2 : 1-2 hours per day
+3 : 2-3 hours a day.
+4 : 3-4 hours a day.
+5 : More than 4 hours a day
+
+Figure 3.2.1.1
+
+College students' favorite type of short video 
+It can be seen from the data in the figure 3.2.1.2 that learning video is the most popular viewing option, accounting for 44.83 %. This shows that college students are more inclined to acquire knowledge and skills when using video platforms, rather than just entertainment. Life records have also received some attention, accounting for 34.48 %, which shows that college students have a strong demand for sharing life and exchanging experience. In addition, the proportion of other videos is 20.69 %, which may include some entertainment, music, film and other content. In general, the demand for video platforms for college students is more diversified, not only limited to entertainment and recreation, but also includes acquiring knowledge and skills, sharing life and exchanging experience.
+               
+Figure 3.2.1.2
+
+The most commonly used short video platform
+According to the data in the figure 3.2.1.3, TikTok is the most commonly used short video platform for college students, with a proportion of 44.83 %, micro-vision and Kuaishou are 34.48 % and 20.69 % respectively. The popularity of tremolo among college students may be due to its more diverse and interesting content, while the user interface is more friendly and easy to use. As a product of Tencent, micro-vision also has a certain user base among college students, but its content and user interaction may be relatively simple. The Kuaishou pays more attention to localization and regional characteristics, but it may have a relatively small audience among college students.
+         
+Figure 3.2.1.3
+
+Analysis of sharing short video
+According to the data in the figure 3.2.1.4, most college students share a high proportion of short videos on social media, and the highest proportion is the choice of ' 3 : somewhat agree ', accounting for 31.03 %. This may be because short video is simple, vivid and easy to spread, which can attract the attention of young people and transmit information quickly. In addition, the proportion of choosing ' 2 : disagree ' and ' 1 : completely disagree ' is low, probably because now short video has become a popular form of social media, and most people will watch and share short video on social media.
+       
+Figure 3.2.1.4: results of the ‘often share short videos on social media’
+
+3.2.2 Analysis of college students' cognition of short video
+College students' cognition of short video shows a more diversified distribution, but most people think that short video has a certain impact on themselves, which can help understand culture and trends, and can also relieve stress and fatigue. However, a small number of people think that short video has little or no effect on themselves.
+The impact of short video on self
+According to the data in the figure 3.2.2.1, the influence of college students ' short video on themselves shows a relatively average distribution. Among them, 41.38 % of the respondents agree or agree with this statement, which may be because the short video content is vivid, interesting and diverse, which can arouse their interest and resonance, thus affecting their ideas and values. At the same time, 34.48 % of respondents believe that short video has little or no impact on themselves. This may be because they have a more objective attitude towards short video, can better distinguish between facts and false information, and will not be easily affected by short video.
+            
+Figure 3.2.2.1: results of the ‘Short video has a greater impact on yourself’
+
+Short video to understand culture
+According to the data in the figure 3.2.2.2, 51.73 % of college students believe that short videos can help them understand culture and trends. This may be because short videos cover a variety of topics, including culture, art, fashion, science and technology, etc. By watching short videos, they can access knowledge and trends in different fields. In addition, 24.14 % of college students chose to agree very much, indicating that they believe that short video can indeed provide this help, while only 6.9 % of college students completely disagree. This may be because they believe that the content of short video is not deep enough, only superficial understanding, can not really understand the culture and trends. Overall, it shows that most college students think that short videos can help understand culture and trends.
+       
+
+Figure 3.2.2.2: result of the ‘Short videos can help understand culture and trends’
+Relieve stress and fatigue
+According to the data in the figure 3.2.2.3, it can be seen that most people ( 48.28 % ) think that short videos can relieve stress and fatigue, of which 27.59 % say they agree very much and 20.69 % agree. In addition, 20.69 % of people think a little agree, 13.79 % of people think disagree, 4.17 % of people think completely disagree. This shows that short videos can help people relieve stress and fatigue to some extent, but not everyone thinks so. Maybe some people think that short video is just a way of entertainment, which is not significant for relieving stress and fatigue.
+         
+Figure 3.2.2.3: result of the ‘Short video can relieve stress and fatigue’
+
+3.2.3 Interview analysis
+It can be seen from the answers of the three interviewers that there are differences in their cognition and use of short videos. Among them, the first interviewer believes that there is a certain relationship between the frequency and performance of short videos, but moderate viewing can relieve learning pressure ; the second interviewer believes that short videos are mainly for entertainment, but they can also be used as learning aids ; the third interviewer believes that short video can be used as a learning aid, but excessive addiction will affect learning efficiency. 
+In the choice of short video platform, the three interviewers have their own preferences. The first interviewer prefers to watch short videos on Douyin, the second interviewer prefers to watch on the Kuaishou, and the third interviewer has no clear preference. 
+In terms of the originality of short video content, all three interviewers think it is very important. The original short video content can attract the attention and interest of the audience, and also bring more attention and fans to the video author. 
+For the future development trend of short video, all three interviewers believe that short video will be more intelligent, personalized and social. For example, artificial intelligence technology can help the video production process more efficient and time-saving ; the intelligent recommendation system can provide users with more accurate short video content recommendations based on their preferences and historical browsing records. At the same time, short videos will also focus more on social interaction, further enhancing the user experience and platform stickiness by strengthening the connection and interaction between users. 
+On the whole, short video has become one of the main ways for people to entertain, and it can also be used as a learning aid. In the future, with the continuous development of technology, short videos will be more diversified and intelligent, providing users with a better viewing experience.
+
+
+
+本研究旨在调查大学生短视频使用现状，通过问卷调查和深度访谈的方式收集数据。问卷的信度分析表明，问卷的整体信度较高，每个分析项对总体信度也有一定的贡献，因此建议保留所有分析项。调查结果表明，大学生短视频平台的使用非常普遍，其中抖音是最常用的平台，大学生对短视频的需求更为多样化，不仅仅限于娱乐和消遣，还包括获取知识和技能、分享生活和交流经验等。大学生在社交媒体上分享短视频的意愿也很高。大部分大学生认为短视频可以帮助他们了解文化和趋势，并且可以缓解压力和疲劳。深度访谈结果表明，大学生对短视频的认知和使用存在差异，但都认为短视频将来会更加智能、个性化和社交化。总之，短视频已成为人们娱乐和学习的主要方式，未来将会更加多样化和智能化，为用户提供更好的观看体验。 
+
+本研究的局限性在于样本量较小，只有29份有效问卷，因此结果可能不够全面和代表性。此外，深度访谈只采访了三位大学生，也不能完全代表大学生群体的意见。未来的研究可以扩大样本量，采用更多的数据收集方法，以获得更全面和准确的结果。国内 
+
+本研究的意义在于对大学生短视频使用现状进行了深入的调查和分析，为短视频平台提供了有价值的参考和建议。同时，本研究还为未来的短视频发展提供了一些启示和思考，为相关研究提供了一定的参考价值。
+
+
+
+
+不仅仅局限于娱乐和休闲，还包括获取知识和技能、分享生活和交流经验等。在短视频平台中，抖音是大学生最常用的平台，可能是因为它的内容更加多样化和有趣，用户界面也更加友好和易于使用。在社交媒体上，大多数大学生愿意分享短视频，这也反映了短视频在传播和交流方面的优势。
+
+此外，大学生对短视频的偏好也有所不同。学习视频是最受欢迎的观看选项，占比为44.83%，这表明大学生更倾向于在视频平台上获取知识和技能，而不仅仅是娱乐。生活记录也受到了一定的关注，占比为34.48%，这表明大学生对分享生活和交流经验有很强的需求。总的来说，大学生对视频平台的需求更加多元化，不仅仅局限于娱乐和休闲，还包括获取知识和技能、分享生活和交流经验等。
+
+在大学生对短视频的认知方面，虽然分布较为多样化，但大多数人认为短视频对自己有一定的影响，可以帮助了解文化和趋势，也可以缓解压力和疲劳。然而，少数人认为短视频对自己的影响很小或没有影响。此外，通过深入访谈，我们发现大学生对短视频的认知和使用也有所不同，但他们对短视频的未来发展趋势有着相似的看法，即短视频将变得更加智能、个性化和社交化。
+
+总的来说，本研究的结果符合研究目的和问题，说明大学生对短视频的使用和偏好具有一定的规律性和普遍性。然而，本研究的样本量较小，且只涉及到了某些特定的大学生群体，因此研究结果的普适性和代表性还需要进一步探讨。此外，本研究的局限性还包括研究方法的单一性和研究内容的局限性，未来的研究可以采用更加多样化和综合性的研究方法，探讨更加广泛和深入的研究内容。
+
+
+
+研究问题一的结果和讨论：
+
+本研究旨在调查大学生短视频使用现状，通过问卷调查和深度访谈，对大学生的短视频使用模式进行了研究。通过可靠性分析，得出问卷的 Cronbach's α系数高于0.85，表明问卷具有较好的可靠性。在样本调查中，共收到29份有效问卷，女生占比51.72％，男生占比48.28％，年龄以21-23岁和18-20岁为主。在五所大学中，每所学校的人数占比相等。
+
+在短视频平台使用分析中，短视频平台在大学生中非常受欢迎。大学生短视频的需求更加多样化，不仅局限于娱乐休闲，还包括获取知识技能、分享生活和交流经验等。在短视频平台中，抖音是大学生使用最广泛的平台，可能是因为其内容更加丰富有趣，用户界面更加友好易用。在社交媒体上，大多数大学生愿意分享短视频，这也反映了短视频在传播和交流方面的优势。
+
+在大学生对短视频的认知中，大多数人认为短视频对自己有一定的影响，可以帮助了解文化和趋势，也可以缓解压力和疲劳。然而，少数人认为短视频对自己影响不大或没有影响。
+
+总的来说，大学生对短视频的使用和认知具有较高的多样性，但大多数人认为短视频可以作为娱乐和学习的一种形式。在未来，随着技术的不断发展，短视频将变得更加多样化和智能化，为用户提供更好的观看体验。
+
+研究问题二的结果和讨论：
+
+本研究旨在调查大学生对短视频的偏好，包括内容类型、平台和使用频率等方面。通过问卷调查和深度访谈，对大学生的短视频偏好进行了研究。
+
+在短视频类型偏好方面，学习视频是大学生最喜欢的观看选项，占比为44.83％。这表明大学生更倾向于在使用视频平台时获取知识和技能，而不仅仅是娱乐。生活记录也受到了一定的关注，占比为34.48％，这表明大学生在分享生活和交流经验方面有强烈的需求。总体而言，大学生对视频平台的需求更加多样化，不仅局限于娱乐休闲，还包括获取知识技能、分享生活和交流经验等。
+
+在短视频平台偏好方面，TikTok是大学生最常用的短视频平台，占比为44.83％，微视和快手分别为34.48％和20.69％。这可能是因为抖音的内容更加丰富有趣，而且用户界面更加友好易用。作为腾讯的产品，微视在大学生中也有一定的用户基础，但其内容和用户互动可能相对简单。快手注重本地化和区域特色，但在大学生中可能受众相对较小。
+
+在短视频分享方面，大多数大学生在社交媒体上分享短视频的比例较高，其中选择“有点同意”的比例最高，占31.03％。这可能是因为短视频简单、生动、易于传播，可以吸引年轻人的注意力，快速传递信息。总的来说，现在短视频已经成为一种流行的社交媒体形式，大多数人会在社交媒体上观看和分享短视频。
+
+总结：
+
+本研究通过问卷调查和深度访谈，对大学生的短视频使用模式和偏好进行了研究。结果表明
+
+
+
+
+研究问题一：大学生短视频使用模式是什么？
+本研究对大学生短视频使用模式进行了调查，结果表明，大学生对短视频平台的使用非常普遍，他们经常在平台上观看和分享视频。大学生对短视频的需求更加多样化，不仅仅局限于娱乐和休闲，还包括获取知识和技能、分享生活和交流经验。在短视频平台中，抖音是大学生最常用的平台，可能是因为其内容更加多样化和有趣，用户界面也更加友好和易于使用。在社交媒体上，大多数大学生都愿意分享短视频，这也反映了短视频在交流和传播方面的优势。
+
+此外，大学生观看短视频的频率和时间也比较高，大多数人每天观看短视频的时间在2-4小时之间。大学生观看短视频的类型也比较多样化，其中学习视频是最受欢迎的观看选项，占比44.83%。此外，大学生最常用的短视频平台是抖音，占比44.83%。
+
+研究问题二：大学生对短视频的偏好是什么，包括内容类型、平台和使用频率？
+本研究还对大学生对短视频的偏好进行了调查，包括内容类型、平台和使用频率。结果表明，大学生更倾向于获取知识和技能，而不只是娱乐，学习视频是最受欢迎的观看选项，占比44.83%。此外，大学生对分享生活和交流经验也有很强的需求，生活记录占比34.48%。大学生对短视频平台的偏好也比较明显，抖音是最常用的平台，占比44.83%。大学生对短视频的使用频率也比较高，大多数人每天观看短视频的时间在2-4小时之间。
+
+总结：
+本研究对大学生短视频使用模式和偏好进行了调查，结果表明，大学生对短视频的需求更加多样化，不仅仅局限于娱乐和休闲，还包括获取知识和技能、分享生活和交流经验。在短视频平台中，抖音是大学生最常用的平台，学习视频是最受欢迎的观看选项。大学生对短视频的使用频率也比较高，大多数人每天观看短视频的时间在2-4小时之间。此外，大学生对短视频的原创内容和社交互动也非常重视。研究还发现，大学生对短视频的认知和使用存在差异，但整体上，短视频已成为人们娱乐和学习的主要方式。未来，随着技术的不断发展，短视频将更加智能化和个性化，为用户提供更好的观看体验
+
+
+
+
+研究问题一：大学生短视频使用现状的调查研究
+
+结果与讨论 通过问卷和深度访谈的方式，我们对大学生短视频的使用现状进行了调查研究。在问卷调查中，我们得到了29份有效问卷，其中女生占比51.72％，男生占比48.28％。在年龄方面，回答者主要集中在21-23岁（占41.38％）和18-20岁（占37.93％）之间。从五所大学的选择来看，每所大学的回答者比例相等。
+通过问卷调查和深度访谈，我们发现大学生短视频平台使用的时间和频率都非常高。大多数大学生每天会花费2-4个小时观看短视频，他们的观看需求也非常多样化，不仅仅局限于娱乐和消遣，还包括了获取知识和技能、分享生活和交流经验等。在短视频平台中，抖音是大学生最常用的平台，可能是因为它的内容更加丰富多样、有趣，用户界面也更加友好易用。在社交媒体上，大多数大学生都愿意分享短视频，这也反映了短视频在传播和交流方面的优势。
+
+此外，我们还发现大学生对短视频的认知也非常广泛。大多数人认为短视频对自己有一定的影响，可以帮助他们了解文化和趋势，也可以缓解压力和疲劳。但是，也有一小部分人认为短视频对自己的影响很小或者没有影响。
+
+结果是否符合研究目的和回答研究问题 我们的研究目的是调查大学生短视频使用现状，我们的调查结果表明，大学生对短视频的使用时间和频率非常高，而且使用需求也非常多样化。我们的调查结果回答了研究问题一的问题，也符合了研究目的。
+
+结果与其他专家的结果一致吗 我们的调查结果与其他专家的结果一致。短视频已经成为了大学生们主要的娱乐方式之一，也被用作了学习辅助工具。此外，我们的调查结果还表明，大学生对短视频的认知也非常广泛，认为短视频可以帮助他们了解文化和趋势，缓解压力和疲劳等。
+
+结论和建议 通过我们的调查研究，我们可以得出以下结论：
+
+大学生短视频平台使用的时间和频率都非常高，观看需求也非常多样化。
+
+抖音是大学生最常用的短视频平台，可能是因为它的内容更加丰富多样、有趣，用户界面也更加友好易用。
+
+大多数大学生认为短视频对自己有一定的影响，可以帮助他们了解文化和趋势，也可以缓解压力和疲劳。
+
+大学生对短视频的认知也非常广泛，认为短视频可以帮助他们获取知识和技能，分享生活和交流经验等。
+
+基于以上结论，我们建议：
+
+短视频平台可以进一步丰富内容，满足大学生更多样化的观看需求。
+短视频平台可以进一步优化用户界面和用户体验，提高平台的用户黏性。
+短视频平台可以通过人工智能等技术手段，向用户提供更加智能的推荐服务。
+大学生可以适当控制短视频
+
+
+
+
+研究问题一：大学生短视频使用的模式是什么？
+本研究通过问卷调查和深度访谈，调查了大学生短视频使用的模式。结果显示，大学生在短视频平台上的观看需求更加多样化，不仅限于娱乐休闲，还包括获取知识和技能、分享生活和交流经验等。在短视频平台中，抖音是大学生最常用的平台，可能是因为其内容更加丰富多样，用户界面更加友好易用。在社交媒体上，大多数大学生愿意分享短视频，这也反映了短视频在传播和交流方面的优势。在大学生中，观看短视频的频率和时长相对较高，大多数人每天观看短视频的时间在2-4小时之间，说明短视频已成为大学生日常娱乐生活的重要组成部分。在大学生中，学习类视频是最受欢迎的观看选项，占比44.83％，生活记录也受到了一定的关注，占比34.48％，这表明大学生对分享生活和交流经验有着强烈的需求。在大学生中，短视频的分享主要集中在社交媒体上，这说明短视频在传播方面有着很强的优势。
+
+研究问题二：大学生对短视频的偏好是什么，比如内容类型、平台和使用频率？
+本研究通过问卷调查和深度访谈，调查了大学生对短视频的偏好。结果显示，大学生更喜欢学习类视频，占比44.83％，这表明大学生更倾向于在使用视频平台时获取知识和技能，而不仅仅是娱乐。在大学生中，抖音是最常用的短视频平台，占比44.83％，微视和快手分别占比34.48％和20.69％。在大学生中，短视频的原创内容非常重要，可以吸引观众的注意力和兴趣，同时也可以为视频作者带来更多的关注和粉丝。在大学生中，观看短视频的频率和时长相对较高，大多数人每天观看短视频的时间在2-4小时之间，说明短视频已成为大学生日常娱乐生活的重要组成部分。在大学生中，短视频的分享主要集中在社交媒体上，这说明短视频在传播方面有着很强的优势。
+
+总结：
+本研究通过问卷调查和深度访谈，调查了大学生短视频使用的模式和偏好。结果显示，大学生在短视频平台上的观看需求更加多样化，不仅限于娱乐休闲，还包括获取知识和技能、分享生活和交流经验等。在短视频平台中，抖音是大学生最常用的平台，学习类视频是最受欢迎的观看选项。在大学生中，观看短视频的频率和时长相对较高，大多数人每天观看短视频的时间在2-4小时之间，说明短视频已成为大学生日常娱乐生活的重要组成部分。在大学生中，短视频的分享主要集中在社交媒体上，这说明短视频在传播方面有着很强的优势。在大学生中，短视频的原创内容非常重要，可以吸引观众的注意力和兴趣，同时也可以为视频作者带来更多的关注和粉丝。在未来，随着技术的不断发展，短视频将会更加智能化、个性化和社
+
+
+
+
+研究问题一：大学生短视频使用模式是什么？
+
+1. 解释、汇总和综合你的研究结果。
+
+根据我们的研究结果，短视频平台在大学生中非常受欢迎，他们经常在这些平台上观看和分享视频。大学生对短视频的需求更加多样化，不仅仅是娱乐和休闲，还包括获取知识和技能、分享生活和交流经验等。在短视频平台中，抖音是大学生最常用的平台，可能是因为其内容更加多样化和有趣，用户界面也更加友好和易于使用。在社交媒体上，大多数大学生愿意分享短视频，这也反映了短视频在传播和交流方面的优势。
+
+2. 结果符合你的研究目的吗？如果不是，为什么？
+
+是的，我们的研究结果符合我们的研究目的。我们的目的是了解大学生对短视频的使用现状和模式，我们的研究结果清楚地表明了大学生对短视频的使用模式和偏好。
+
+3. 结果是否回答了你的研究问题？如果不是，为什么？
+
+是的，我们的研究结果回答了我们的研究问题。我们的研究问题是了解大学生对短视频的使用模式，我们的研究结果清楚地回答了这个问题。
+
+4. 结果与其他专家的结果一致吗？
+
+我们的研究结果与其他专家的结果一致。其他研究也表明，短视频平台在年轻人中非常受欢迎，大学生对短视频的需求更加多样化，不仅仅是娱乐和休闲，还包括获取知识和技能、分享生活和交流经验等。
+
+5. 根据结果进行解释，解释原因，并得出结论。
+
+大学生对短视频的使用模式和偏好与短视频平台的特点密切相关。短视频平台的内容更加多样化和有趣，用户界面也更加友好和易于使用，这吸引了大量的年轻用户。大学生对短视频的需求更加多样化，不仅仅是娱乐和休闲，还包括获取知识和技能、分享生活和交流经验等。这些需求反映了大学生对于短视频的多元化认知和使用。
+
+6. 指出研究的局限性和这些局限性对研究结果的影响，并提出今后的研究方向。
+
+我们的研究样本较小，只有29个有效问卷，这可能影响了我们的研究结果的代表性。另外，我们的研究只关注了大学生对短视频的使用模式和偏好，没有深入研究短视频对大学生的影响和意义。未来的研究可以扩大样本规模，深入探讨短视频对大学生的影响和意义。
+
+7. 指出你的发现的建议、意义、意义和价值。
+
+我们的研究结果对于短视频平台的开发和营销具有重要的意义。短视频平台可以根据大学生的使用模式和偏好，提供更多多样化、有趣的内容，并优化用户界面和交互体验，以吸引更多的年轻用户。此外，短视频平台可以通过社交媒体等渠道，加强与用户的连接和交流，提高用户黏性和忠诚度。
+
+

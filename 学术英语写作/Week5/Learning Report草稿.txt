@@ -1,0 +1,76 @@
+宽泛到收缩
+前言的目标：建立研究背景，综述前人的研究结果和发现，介绍该研究的重要性和目的
+吸引读者的目光。，提供足够的背景信息，保持前言简短
+前言作用：提供背景，介绍本研究提出的科学问题，让读者能理解和评价研究结果的意义
+
+背景 未知 方法 目的 意义
+
+如何撰写前言
+通过已有知识提出科学问题
+通过对科学问题的综述形成科学假设
+解释本研究选用的方法和材料
+间接说明本论研究论文的目的
+
+五步法：General - > Specific
+简单介绍（宽泛），大致了解 General statements about a field of a research to privide the readers with a setting for problems
+More specific statement about the aspects of the problems already studied by other researchers
+Statements that indicate the need for more investigation
+Very specific statement giving the purpose of the writer's study
+Optional statement that give a value or justification for carrying out the study
+
+前言撰写路线图：
+提出问题 -> 综述和回顾 -> 提出假设 -> 解决问题方法 -> 研究目的
+
+ 
+常见问题：缺失重要元素（问题，假设，试验方法，目的）
+某些元素内容模糊
+冗长，失去论文焦点
+背景过于狭窄（读者失去兴趣）
+综述性的表述（综述的前言）
+
+时态：通常不同事态混用
+一般性原理：现在时
+引用前人工作：现在时or过去时
+描述实验方法：过去时
+研究目的：现在时
+
+注意事项：
+一开始就要旗帜鲜明，把科学问题提出来
+不要留下悬念，让读者迷茫
+力求清楚，简洁和易懂
+不要使用过于专业和太偏僻的词汇
+
+
+
+
+
+
+
+The purpose of the introduction is to provide research background, introduce scientific problems, and enable readers to understand and evaluate the significance of research results.
+Writing the introduction requires moving from general to specific, using the five-step method that includes presenting the problem, reviewing previous research, stating the hypothesis, explaining the methods, and stating the purpose.
+When writing the introduction, it is important to use appropriate tenses, such as the present tense for general principles, the present or past tense for citing previous work, the past tense for describing experimental methods, and the present tense for stating the research purpose.
+The introduction should clearly and concisely present the scientific problem, avoiding leaving readers confused or uncertain.
+Common issues to avoid when writing the introduction include missing important elements, vague descriptions, being overly long and losing focus, having a narrow background, and using overly general statements.
+When writing the introduction, it is important to avoid overly technical or esoteric vocabulary to ensure readers can understand the content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
