@@ -1,0 +1,5 @@
+1、 安装anaconda
+2、conda create -n pytorch python==3.9
+3、conda activate pytorch  移动到pytorch
+4、到pytorch官网复制命令安装pytorch，用pip清华源安装
+5、conda install nb_conda_kernels  在pytorch安装Jupyter
