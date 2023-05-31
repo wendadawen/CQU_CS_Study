@@ -8,4 +8,3 @@ Course materials of School of Computer Science, Chongqing University
 你好！
 Your are Welcome！
 
-你好！
